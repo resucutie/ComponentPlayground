@@ -1,0 +1,10 @@
+{
+    "name": "ComponentPlayground",
+    "version": "0.1.0",
+    "license": "MIT",
+    "source": "https://bruh/moment",
+    "updateUrl": "https://bruh/moment",
+    "main": "index.js",
+    "author": "A user",
+    "description": "Playground of components"
+}
